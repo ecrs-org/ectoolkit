@@ -1,0 +1,28 @@
+[build-system]
+requires = ["hatchling"]
+build-backend = "hatchling.build"
+
+[project]
+name = "ectoolkit"
+version = "0.1.0-alpha.0"
+authors = [
+  { name="Kacper Kafara", email="kacperkafara@gmail.com" },
+  { name="Kacper Ślusarczyk", email="co123@interia.eu" },
+  { name="Marcin Pałczak", email="unknown@unknown"},
+  { name="Michał Kowalik", email="unknown@unknown"}
+]
+description = "Tool for visualising results of evolutionary computation conducted with the ecrs library"
+readme = "README.md"
+requires-python = ">=3.9"
+classifiers = [
+    "Programming Language :: Python :: 3",
+    "License :: OSI Approved :: MIT License",
+    "Operating System :: OS Independent",
+    "Development Status :: 3 - Alpha",
+    "Programming Language :: Rust",
+    "Topic :: Scientific/Engineering :: Visualization",
+]
+
+[project.urls]
+"Homepage" = "https://github.com/ecrs-org/ectoolkit"
+"Bug Tracker" = "https://github.com/ecrs-org/ectoolkit/issues"
