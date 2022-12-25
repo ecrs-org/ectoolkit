@@ -13,7 +13,7 @@ authors = [
 ]
 description = "Tool for visualising results of evolutionary computation conducted with the ecrs library"
 readme = "README.md"
-requires-python = ">=3.9"
+requires-python = ">=3.10"
 classifiers = [
     "Programming Language :: Python :: 3",
     "License :: OSI Approved :: MIT License",
