@@ -2,4 +2,5 @@
 .venv/
 .vscode/
 *local.*
+__pycache__/
 
