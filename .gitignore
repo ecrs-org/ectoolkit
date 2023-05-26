@@ -1,4 +1,6 @@
-.envrc/
-.env/
+.envrc
+.venv/
 .vscode/
 *local.*
+__pycache__/
+
