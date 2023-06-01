@@ -2,3 +2,5 @@
 .env/
 .vscode/
 *local.*
+test-data/
+__pycache__/
